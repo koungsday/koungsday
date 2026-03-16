@@ -1,16 +1,26 @@
-## Hi there 👋
+### 안녕하세요, 남궁환입니다 👋
 
-<!--
-**koungsday/koungsday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+폭스바겐 공식 딜러입니다.  
+개발자가 아닌, **현장 영업사원이 AI와 함께 만든 자동차 웹 서비스**를 운영하고 있습니다.
 
-Here are some ideas to get you started:
+고객이 겪는 불편함을 누구보다 잘 알기에,  
+직접 서비스를 기획하고 AI의 도움으로 구현했습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🚗 [vw-k.com](https://www.vw-k.com)
+
+| 기능 | 설명 |
+|------|------|
+| 🧮 실시간 견적 | 프로모션·세금·탁송료 자동 반영 |
+| ⚡ 전기차 보조금 | 전국 161개 지자체 실시간 조회 |
+| 🚙 시승 예약 | 카카오 간편인증 1분 예약 |
+| 💰 할부 계산기 | 월 납입금 시뮬레이션 |
+| 📸 포토 아카이브 | 실차 사진 갤러리 |
+
+---
+
+> *"좋은 서비스는 기술에서 시작하지 않습니다. 고객의 불편함에서 시작합니다."*
+
+📫 **상담**: 010-4454-5212 · [vw-k.com](https://www.vw-k.com)
+
